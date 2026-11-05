@@ -5,3 +5,4 @@ applicazione = "assistenza"
 peso_massimo_componenti_kg = 100
 stato = "pronto"
 componenti = list[componente]
+
