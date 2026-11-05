@@ -1,6 +1,7 @@
 
-class componente: __init__(self, codice: str, nome: str, peso_kg: float) -> None.
+class componente:
+def __init__(self, codice: str, nome: str, peso_kg: float) -> None:
+    self.codice = codice
+    self.nome = nome
+    self.peso_kg = peso_kg
 
-codice = "1a2b"
-nome = "braccio articolato"
-peso_kg = 5
